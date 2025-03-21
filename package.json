@@ -1,6 +1,6 @@
 {
   "name": "my-tod-css",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": " A simple, easy-to-use CSS library that provides a set of ready-to-apply classes for common styling needs, eliminating the need for writing custom CSS code. Ideal for rapid web development and reusable styling across projects.",
   "main": "index.css",
   "scripts": {
