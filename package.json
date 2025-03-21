@@ -1,0 +1,22 @@
+{
+  "name": "my-tod-css",
+  "version": "1.0.0",
+  "description": " A simple, easy-to-use CSS library that provides a set of ready-to-apply classes for common styling needs, eliminating the need for writing custom CSS code. Ideal for rapid web development and reusable styling across projects.",
+  "main": "index.css",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaeemUddin940/my-tod-css.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "NAEEM UDDIN",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NaeemUddin940/my-tod-css/issues"
+  },
+  "homepage": "https://github.com/NaeemUddin940/my-tod-css#readme"
+}
