@@ -115,14 +115,14 @@
   outline: 2px solid #2c9caf;
 }
 
-btn3:hover {
+.btn3:hover {
   color: #ffffff;
   transform: scale(1.1);
   outline: 2px solid #70bdca;
   box-shadow: 4px 5px 17px -4px #268391;
 }
 
-btn3::before {
+.btn3::before {
   content: "";
   position: absolute;
   left: -50px;
@@ -135,7 +135,7 @@ btn3::before {
   transition: width 1000ms;
 }
 
-btn3:hover::before {
+.btn3:hover::before {
   width: 250%;
 }
 
