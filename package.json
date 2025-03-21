@@ -1,6 +1,6 @@
 {
   "name": "my-first-tod-css",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": " A simple, easy-to-use CSS library that provides a set of ready-to-apply classes for common styling needs, eliminating the need for writing custom CSS code. Ideal for rapid web development and reusable styling across projects.",
   "main": "index.css",
   "scripts": {
